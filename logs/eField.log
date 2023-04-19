@@ -1,0 +1,36 @@
+2023-04-16 19:12:54 [info] (server.js) message : "Get all e field sensor data from database."
+2023-04-16 19:14:42 [info] (server.js) message : "Get all e field sensor data from database."
+2023-04-16 19:30:49 [info] (server.js) message : "Get all e field sensor data from database."
+2023-04-19 13:37:00 [info] (server.js) message : "Get all e field sensor data from database."
+2023-04-19 14:25:54 [error] (server.js) message : "Invalid validation method: createEFieldSensor"
+2023-04-19 14:45:22 [error] (server.js) message : "Validation error: warning_point_id is required, e_field_name is required, lat is required"
+2023-04-19 14:45:39 [error] (server.js) message : "warning_point_id is required, e_field_name is required, lat is required"
+2023-04-19 14:46:06 [error] (server.js) message : "e_field_name is required"
+2023-04-19 15:06:27 [info] (server.js) message : "Deleted E field sensor with ID 11"
+2023-04-19 15:07:33 [error] (server.js) message : "warning_point_id is required"
+2023-04-19 15:07:33 [error] (server.js) message : "warning_point_id is required"
+2023-04-19 15:08:23 [error] (server.js) message : "warning_point_id is required"
+2023-04-19 15:08:46 [error] (server.js) message : "warning_point_id is required, e_field_name is required, lat is required, lon is required"
+2023-04-19 15:10:01 [info] (server.js) message : "Successful create E field sensor data: [object Object]"
+2023-04-19 15:11:24 [info] (server.js) message : "Updated E field sensor with ID 12"
+2023-04-19 15:12:39 [info] (server.js) message : "Updated E field sensor with ID 12"
+2023-04-19 15:14:34 [error] (server.js) message : "E field sensor with ID 11 not found"
+2023-04-19 15:19:49 [error] (server.js) message : "(Delete) E field sensor with ID 11 not found"
+2023-04-19 15:21:36 [error] (server.js) message : "(Update) E field sensor with ID 11 not found"
+2023-04-19 16:13:05 [info] (server.js) IP: undefined message : "(Delete) Deleted E field sensor with ID 10"
+2023-04-19 17:30:40 [error] (server.js) message : "(Delete) E field sensor with ID 10 not found"
+2023-04-19 19:51:57 [error] (server.js) IP: undefined message : "(Delete) E field sensor with ID 10 not found"
+2023-04-19 19:54:27 [error] (server.js) IP: undefined message : "(Delete) E field sensor with ID 10 not found - IP: ::1"
+2023-04-19 20:15:29 [error] (server.js) message : "(Delete) E field sensor with ID 10 not found - IP: ::1"
+2023-04-19 20:19:24 [error] (server.js) message : (Delete) E field sensor with ID 10 not found - IP: ::1
+2023-04-19 20:19:38 [info] (server.js) message : Get all e field sensor data from database.
+2023-04-19 20:19:41 [info] (server.js) message : Get all e field sensor data from database.
+2023-04-19 20:38:22 [error] (server.js) message : (Delete) E field sensor with ID 10 not found -- 192.168.43.134
+IP: 192.168.43.134 -- 2023-04-19 20:40:20 [error] (server.js) message : Method DELETE E field sensor with ID 10 not found
+IP: 192.168.43.134 -- 2023-04-19 20:41:36 [error] (server.js) message : Method - [DELETE], E field sensor with ID 10 not found
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-19 20:50:51 [error] (server.js) message : Method(DELETE), E field sensor with ID 10 not found
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-19 20:51:34 [error] (server.js) message : Method(DELETE), E field sensor with ID 10 not found.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-19 20:51:37 [info] (server.js) message : Successful create E field sensor data: [object Object]
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-19 20:51:40 [info] (server.js) message : Get all e field sensor data from database.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-19 20:55:27 [info] (server.js) message : Method(DELETE), Deleted E field sensor with ID 12.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-19 20:58:06 [info] (server.js) message : Method(POST), Successful create E field sensor data: {"warning_point_id":"D17E01CA9ED073","e_field_name":"test create time now","lat":134.016,"lon":10.2678}
