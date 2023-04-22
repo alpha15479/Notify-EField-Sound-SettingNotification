@@ -1,0 +1,9 @@
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:52:12 [info] (server.js) message : Method(GET), Get all setting notifications data.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:52:22 [info] (server.js) message : Method(GET), Get setting notification with ID 1.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:52:36 [error] (server.js) message : Method(GET), Setting notification with ID 8 not found.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:52:59 [error] (server.js) message : Method(PUT), Setting notification with ID 8 not found.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:53:09 [info] (server.js) message : Method(PUT), Update setting notification with ID 1.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:53:18 [info] (server.js) message : Method(GET), Get all setting notifications data.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:53:27 [info] (server.js) message : Method(POST), Create setting notification successfully.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:55:07 [error] (server.js) message : Method(DELETE), Setting notification with ID 6 not found.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:55:13 [info] (server.js) message : Method(DELETE), Delete setting notification with ID 8.
