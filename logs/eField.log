@@ -34,3 +34,4 @@ IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-19 20:51:37 [in
 IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-19 20:51:40 [info] (server.js) message : Get all e field sensor data from database.
 IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-19 20:55:27 [info] (server.js) message : Method(DELETE), Deleted E field sensor with ID 12.
 IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-19 20:58:06 [info] (server.js) message : Method(POST), Successful create E field sensor data: {"warning_point_id":"D17E01CA9ED073","e_field_name":"test create time now","lat":134.016,"lon":10.2678}
+IPv4: 192.168.125.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-20 14:03:55 [error] (server.js) message : Method(DELETE), E field sensor with ID 12 not found.

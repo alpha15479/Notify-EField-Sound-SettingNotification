@@ -1,0 +1,21 @@
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:29:57 [info] (server.js) message : Method(GET), Get all alarm sound.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:30:42 [error] (server.js) message : Method(GET), Alarm sound with ID 111 not found.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:31:11 [error] (server.js) message : Method(POST), Alarm file is required.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:31:11 [error] (server.js) message : Method(GET), Alarm sound with ID 65 not found.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:31:35 [error] (server.js) message : Method(POST), Alarm file is required.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:31:35 [error] (server.js) message : Method(PUT), Alarm sound with ID 65 not found.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:32:45 [info] (server.js) message : Method(PUT), Update alarm sound with ID 17.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:33:17 [info] (server.js) message : Method(GET), Get alarm sound with ID 17.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:33:32 [info] (server.js) message : Method(GET), Get alarm sound with ID 17.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:33:32 [info] (server.js) message : Method(GET), Get alarm sound with ID 17.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:33:58 [info] (server.js) message : Method(DELETE), Deleted alarm sound with ID 17.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:34:30 [error] (server.js) message : Method(POST), Alarm file is required.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:34:30 [error] (server.js) message : [object Object]
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:35:43 [error] (server.js) message : Method(POST), Alarm file is required.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:35:43 [error] (server.js) message : Cannot read properties of undefined (reading 'originalname')
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:36:31 [error] (server.js) message : Method(POST), Alarm file is required.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:36:52 [error] (server.js) message : Method(POST), Alarm file is required.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:36:52 [error] (server.js) message : [object Object]
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:37:47 [error] (server.js) message : Method(POST), Alarm file is required.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:38:03 [info] (server.js) message : Method(POST), Upload alarm file successfully.
+IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:38:08 [info] (server.js) message : Method(GET), Get all alarm sound.
