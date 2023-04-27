@@ -1,5 +1,8 @@
 const express = require('express');
 const app = express();
+require('dotenv').config();
+
+const {PORT} = process.env
 const settingNotificationRouter = require('./routes/settingNotificationRouter');
 const eFieldSensorRouter = require('./routes/eFieldSensorRouter');
 const alarmSoundRouter = require('./routes/alarmSoundRouter');
@@ -22,6 +25,6 @@ app.use((err, req, res, next) => {
   res.status(500).json({ message: 'Something went wrong' , err});
 });
 
-app.listen(3000, () => {
-  console.log('Server is running on port 3000');
+app.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
 });

@@ -1,12 +1,15 @@
 const mysql = require('mysql2');
 const axios = require('axios');
 const nodemailer = require('nodemailer');
+require('dotenv').config();
+
+const {EMAIL_USER, EMAIL_PASSWORD, MYSQL_HOSTNAME, MYSQL_USERNAME, MYSQL_PASSWORD, MYSQL_DB} = process.env
 
 const connection = mysql.createConnection({
-  host: 'localhost',
-  user: 'root',
-  password: '',
-  database: 'kumwell'
+  host: MYSQL_HOSTNAME,
+  user: MYSQL_USERNAME,
+  password: MYSQL_PASSWORD,
+  database: MYSQL_DB
 });
 
 connection.connect((err) => {
@@ -43,13 +46,13 @@ const sendEmail = async (email, text) => {
       let transporter = nodemailer.createTransport({
         service: 'gmail',
         auth: {
-          user: 'phutthinan.mo.62@ubu.ac.th',
-          pass: 'rkeT6357'
+          user: EMAIL_USER,
+          pass: EMAIL_PASSWORD
         }
       });
   
       let info = await transporter.sendMail({
-        from: 'wichuda.ph.62@ubu.ac.th',
+        from: EMAIL_USER,
         to: email,
         subject: 'Notification From Kumwell Alarm Viewer',
         text: text
