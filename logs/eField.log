@@ -37,3 +37,22 @@ IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-19 20:58:06 [in
 IPv4: 192.168.125.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-20 14:03:55 [error] (server.js) message : Method(DELETE), E field sensor with ID 12 not found.
 IPv4: 192.168.45.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-24 19:32:51 [error] (server.js) message : Table 'kumwell.e_field_sensor' doesn't exist
 IPv4: 192.168.45.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-24 21:25:28 [info] (server.js) message : Method(POST), Successful create E field sensor data: {"warning_point_id":"D17E01CA9ED073","e_field_name":"test create time now","lat":134.016,"lon":10.2678}
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:18:06 [error] (server.js) message : (Create): e_field_name is required, lat is required
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:21:38 [error] (server.js) message : (Create): e_field_name is required, lat is required
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:40:36 [info] (server.js) message : Method(GET), Get all e field sensor data from database.
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:40:47 [error] (server.js) message : Validation error
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:41:07 [info] (server.js) message : Method(POST), Successful create E field sensor data: {"warning_point_id":"D17E01CA9ED074","e_field_name":"test create time now","lat":134.016,"lon":10.2678}
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:41:40 [error] (server.js) message : (Create): warning_point_id is required
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:41:59 [error] (server.js) message : (Create): e_field_name is required
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:42:18 [error] (server.js) message : (Create): lat is required
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:42:35 [error] (server.js) message : (Create): lon is required
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:42:53 [error] (server.js) message : (Create): warning_point_id is required, e_field_name is required, lat is required, lon is required
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:43:21 [info] (server.js) message : Method(POST), Successful create E field sensor data: {"warning_point_id":"D17E01CA9ED075","e_field_name":"test create time now","lat":134.016,"lon":10.2678}
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:43:25 [info] (server.js) message : Method(GET), Get all e field sensor data from database.
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:43:48 [error] (server.js) message : Method(GET), E field sensor with ID 11 not found
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:43:52 [info] (server.js) message : Get e field sensor data by id from database.
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:44:01 [error] (server.js) message : Method(GET), E field sensor with ID 11 not found
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:44:18 [error] (server.js) message : Method(Update), E field sensor with ID 11 not found
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:44:23 [info] (server.js) message : Method(Update), Updated E field sensor with ID 1
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:44:37 [error] (server.js) message : Method(Update), E field sensor with ID 11 not found
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:44:56 [info] (server.js) message : Method(DELETE), Deleted E field sensor with ID 1.

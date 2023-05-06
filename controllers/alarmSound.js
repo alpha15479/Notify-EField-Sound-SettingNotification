@@ -29,15 +29,25 @@ const uploadAlarmSound = async (req, res, next) => {
       return res.status(400).json({ errors: errors.array() });
     }
 
+    if (req.file.size > 100 * 1024 * 1024) {
+      logger.error(`Method(POST), File size is too large. Maximum file size is 100MB.`);
+      return res.status(400).json({ message: 'File size is too large. Maximum file size is 100MB.' });
+    }
+
     const alarmSoundData = {
       name: req.file.originalname,
       type: req.file.mimetype,
       file: req.file.buffer,
       sound_name: req.body.sound_name
     };
+
     const newAlarmSound = await AlarmSoundService.createAlarmSound(alarmSoundData);
     logger.info(`Method(POST), Upload alarm file successfully.`);
-    res.status(201).json(newAlarmSound);
+
+    const { id, sound_name, name, type, created_at, updated_at } = newAlarmSound;
+    const responseData = { id, sound_name, name, type, created_at, updated_at };
+
+    res.status(201).json(responseData);
   } catch (error) {
     logger.error(error);
     next(error);
@@ -55,6 +65,11 @@ const updateAlarmSound = async (req, res, next) => {
     let newAlarmSoundData = {
       sound_name: req.body.sound_name
     };
+
+    if (req.file.size > 100 * 1024 * 1024) {
+      logger.error(`Method(PUT), File size is too large. Maximum file size is 100MB.`);
+      return res.status(400).json({ message: 'File size is too large. Maximum file size is 100MB.' });
+    }
     
     if (req.file) {
       newAlarmSoundData = {
@@ -67,7 +82,11 @@ const updateAlarmSound = async (req, res, next) => {
     
     const updatedAlarmSound = await AlarmSoundService.updateAlarmSoundById(req.params.id, newAlarmSoundData);
     logger.info(`Method(PUT), Update alarm sound with ID ${req.params.id}.`);
-    res.status(200).json(updatedAlarmSound);
+
+    const { id, sound_name, name, type, created_at, updated_at } = updatedAlarmSound;
+    const responseData = { id, sound_name, name, type, created_at, updated_at };
+
+    res.status(200).json(responseData);
   } catch (error) {
     logger.error(error);
     next(error);

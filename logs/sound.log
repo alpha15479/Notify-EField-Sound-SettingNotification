@@ -19,3 +19,35 @@ IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:36:52 [er
 IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:37:47 [error] (server.js) message : Method(POST), Alarm file is required.
 IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:38:03 [info] (server.js) message : Method(POST), Upload alarm file successfully.
 IPv4: 192.168.43.134, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-22 20:38:08 [info] (server.js) message : Method(GET), Get all alarm sound.
+IPv4: 192.168.82.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-29 20:26:55 [info] (server.js) message : Method(GET), Get all alarm sound.
+IPv4: 192.168.82.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-04-29 20:27:27 [error] (server.js) message : Got a packet bigger than 'max_allowed_packet' bytes
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 12:56:57 [info] (server.js) message : Method(GET), Get all alarm sound.
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 12:57:20 [info] (server.js) message : Method(POST), Upload alarm file successfully.
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 12:58:47 [info] (server.js) message : Method(POST), Upload alarm file successfully.
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 12:59:02 [info] (server.js) message : Method(POST), Upload alarm file successfully.
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 12:59:12 [info] (server.js) message : Method(GET), Get all alarm sound.
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 12:59:49 [info] (server.js) message : Method(GET), Get alarm sound with ID 1.
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:00:14 [info] (server.js) message : Method(GET), Get alarm sound with ID 1.
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:00:14 [info] (server.js) message : Method(GET), Get alarm sound with ID 1.
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:00:57 [info] (server.js) message : Method(PUT), Update alarm sound with ID 1.
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:02:13 [info] (server.js) message : Method(DELETE), Deleted alarm sound with ID 3.
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:06:13 [info] (server.js) message : Method(PUT), Update alarm sound with ID 1.
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:06:39 [info] (server.js) message : Method(PUT), Update alarm sound with ID 1.
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:07:10 [info] (server.js) message : Method(PUT), Update alarm sound with ID 1.
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:07:10 [error] (server.js) message : updated_a is not defined
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:07:24 [info] (server.js) message : Method(PUT), Update alarm sound with ID 1.
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:08:51 [info] (server.js) message : Method(POST), Upload alarm file successfully.
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:10:05 [info] (server.js) message : Method(POST), Upload alarm file successfully.
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:10:34 [info] (server.js) message : Method(PUT), Update alarm sound with ID 1.
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:12:07 [info] (server.js) message : Method(GET), Get all alarm sound.
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 13:59:49 [error] (server.js) message : Got a packet bigger than 'max_allowed_packet' bytes
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 14:01:40 [error] (server.js) message : Got a packet bigger than 'max_allowed_packet' bytes
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 14:04:30 [error] (server.js) message : fileSize is not defined
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 14:04:51 [info] (server.js) message : Method(GET), Get all alarm sound.
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 14:05:03 [error] (server.js) message : fileSize is not defined
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 14:05:46 [error] (server.js) message : Got a packet bigger than 'max_allowed_packet' bytes
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 14:08:57 [error] (server.js) message : Got a packet bigger than 'max_allowed_packet' bytes
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 14:09:15 [error] (server.js) message : Method(PUT), File size is too large. Maximum file size is 10MB.
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 14:10:21 [error] (server.js) message : Method(PUT), File size is too large. Maximum file size is 100MB.
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 14:10:48 [error] (server.js) message : Got a packet bigger than 'max_allowed_packet' bytes
+IPv4: 192.168.163.82, IPv6: fe80::9e7e:7e2e:6f19:aa35 -- 2023-05-06 14:12:02 [error] (server.js) message : Method(POST), File size is too large. Maximum file size is 100MB.

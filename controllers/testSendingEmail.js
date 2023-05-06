@@ -5,6 +5,11 @@ class EmailController {
     try {
       const { email, message } = req.body;
 
+      if (!email) {
+        res.status(400).json({ message: 'email is required!' });
+        return;
+      }
+
       const result = await emailService.sendEmail(email, message);
 
       res.status(200).json({ 'message': 'Sending Email Successfully', 'data': result });

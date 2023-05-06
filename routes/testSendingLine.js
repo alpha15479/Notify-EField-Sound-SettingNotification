@@ -5,8 +5,13 @@ const { sendLineNotification } = require('../services/sendingLine');
 router.post('/', (req, res) => {
   const { token, message} = req.body;
 
-  if (!token || !message) {
-    res.status(400).json({ message: 'Invalid request parameters' });
+  if (!token) {
+    res.status(400).json({ message: 'token is required!' });
+    return;
+  }
+
+  if (!message) {
+    res.status(400).json({ message: 'notification message is required!' });
     return;
   }
 

@@ -5,7 +5,7 @@ const getAllSettingNotifications = async () => {
   return settingNotifications;
 };
 
-const getOne = async () => {
+const findOne = async () => {
   const settingNotifications = await SettingNotification.findOne();
   return settingNotifications;
 };
@@ -32,7 +32,7 @@ const deleteSettingNotificationById = async (id) => {
 };
 
 module.exports = {
-  getOne,
+  findOne,
   getAllSettingNotifications,
   getSettingNotificationById,
   createSettingNotification,
