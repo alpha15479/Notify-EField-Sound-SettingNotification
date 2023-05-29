@@ -8,16 +8,6 @@ const validate = (method) => {
       return [
         check('custom_key', 'custom_key is required').not().isEmpty(),
         check('text', 'text is required').not().isEmpty(),
-        check('custom_key').custom(async (value, { req }) => {
-          const existingSetting = await SettingNotificationService.findOne({ custom_key: value });
-          if (existingSetting) {
-            logger.error(`Method(POST), custom_key is required!.`);
-            return Promise.reject('Custom key already exists');
-          }
-        }),
-        // check('email_notification', 'email_notification is required').not().isEmpty(),
-        // check('line_notification', 'line_notification is required').not().isEmpty(),
-        // check('iot_notification', 'iot_notification is required').not().isEmpty(),
       ];
     }
     default:
@@ -62,6 +52,7 @@ const createSettingNotification = async (req, res, next) => {
     logger.info(`Method(POST), Create setting notification successfully.`);
     res.status(201).json(newSettingNotification);
   } catch (error) {
+    console.log("Error jaa")
     logger.error(error);
     next(error);
   }

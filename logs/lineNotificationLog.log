@@ -1,0 +1,76 @@
+IPv4: 172.19.48.1, IPv6: fe80::55a2:dbe8:2467:a5d0 -- 2023-05-14 12:38:28 [info] (server.js) message : Method(POST), Sending line notification with data id 476.
+IPv4: 172.19.48.1, IPv6: fe80::55a2:dbe8:2467:a5d0 -- 2023-05-14 12:41:39 [info] (server.js) message : Method(POST), Sending line notification with data id 499.
+IPv4: 172.19.48.1, IPv6: fe80::55a2:dbe8:2467:a5d0 -- 2023-05-14 12:41:39 [error] (server.js) message : Method(POST), Alert time is not current with key name UBU002 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::55a2:dbe8:2467:a5d0 -- 2023-05-14 12:41:39 [error] (server.js) message : Method(POST), Alert time is not current with key name UBU005 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::55a2:dbe8:2467:a5d0 -- 2023-05-14 12:41:39 [error] (server.js) message : Method(POST), Alert time is not current with key name UBU003 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::55a2:dbe8:2467:a5d0 -- 2023-05-14 12:42:00 [info] (server.js) message : Method(POST), Sending line notification with data id 509.
+IPv4: 172.19.48.1, IPv6: fe80::55a2:dbe8:2467:a5d0 -- 2023-05-14 12:42:00 [error] (server.js) message : Method(POST), Alert time is not current with key name UBU002 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::55a2:dbe8:2467:a5d0 -- 2023-05-14 12:42:00 [error] (server.js) message : Method(POST), Alert time is not current with key name UBU005 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::55a2:dbe8:2467:a5d0 -- 2023-05-14 12:42:00 [error] (server.js) message : Method(POST), Alert time is not current with key name UBU003 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::55a2:dbe8:2467:a5d0 -- 2023-05-14 12:42:11 [info] (server.js) message : Method(POST), Sending line notification with data id 509.
+IPv4: 172.19.48.1, IPv6: fe80::55a2:dbe8:2467:a5d0 -- 2023-05-14 12:42:11 [error] (server.js) message : Method(POST), Alert time is not current with key name UBU002 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::55a2:dbe8:2467:a5d0 -- 2023-05-14 12:42:11 [error] (server.js) message : Method(POST), Alert time is not current with key name UBU005 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::55a2:dbe8:2467:a5d0 -- 2023-05-14 12:42:11 [error] (server.js) message : Method(POST), Alert time is not current with key name UBU003 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:22:03 [info] (server.js) message : Method(POST), Sending line notification with data id 642.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:22:03 [error] (server.js) message : Method(POST), Alert time is not current with key name UBU002 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:22:03 [error] (server.js) message : Method(POST), Alert time is not current with key name UBU005 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:22:03 [error] (server.js) message : Method(POST), Alert time is not current with key name UBU003 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:23:16 [info] (server.js) message : Method(POST), Sending line notification with data id 642.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:23:16 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU002' ID: 390 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:23:16 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU005' ID: 392 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:23:16 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU003' ID: 391 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:24:31 [info] (server.js) message : Method(POST), Sending line notification with data id 643 keyName: UBU001.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:24:31 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU002' ID: 390 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:24:31 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU005' ID: 392 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:24:31 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU003' ID: 391 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:25:08 [info] (server.js) message : Method(POST), Sending line notification with data id 643 keyName: 'UBU001'.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:25:08 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU002' ID: 390 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:25:08 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU005' ID: 392 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:25:08 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU003' ID: 391 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:31:50 [info] (server.js) message : Method(POST), Sending line notification with data id 643 keyName: 'UBU001'.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:31:50 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU002' ID: 390 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:31:50 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU005' ID: 392 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:31:50 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU003' ID: 391 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:32:29 [info] (server.js) message : Method(POST), Sending line notification with data id 643 keyName: 'UBU001'.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:32:29 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU002' ID: 390 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:32:29 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU005' ID: 392 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:32:29 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU003' ID: 391 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:33:23 [info] (server.js) message : Method(POST), Sending line notification with data id 643 keyName: 'UBU001'.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:33:23 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU002' ID: 390 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:33:23 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU005' ID: 392 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:33:23 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU003' ID: 391 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:38:32 [info] (server.js) message : Method(POST), Sending line notification with data id 643 keyName: 'UBU001'.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:38:32 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU002' ID: 390 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:38:32 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU005' ID: 392 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:38:32 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU003' ID: 391 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:40:10 [info] (server.js) message : Method(POST), Sending line notification with data id 643 keyName: 'UBU001'.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:40:10 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU002' ID: 390 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:40:10 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU005' ID: 392 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:40:10 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU003' ID: 391 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:46:28 [info] (server.js) message : Method(POST), Sending line notification with data id 643 keyName: 'UBU001'.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:46:28 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU002' ID: 390 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:46:28 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU005' ID: 392 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 13:46:28 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU003' ID: 391 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 14:40:28 [info] (server.js) message : Method(POST), Sending line notification with data id 644 keyName: 'UBU001'.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 14:40:28 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU002' ID: 390 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 14:40:28 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU005' ID: 392 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 14:40:28 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU003' ID: 391 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 14:40:56 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU002' ID: 390 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 14:40:56 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU005' ID: 392 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 14:40:56 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU003' ID: 391 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 14:44:08 [error] (server.js) message : Method(POST), This ID (644) has been previously notified.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 14:44:08 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU002' ID: 390 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 14:44:08 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU005' ID: 392 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::a145:2c64:c073:ced2 -- 2023-05-14 14:44:08 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU003' ID: 391 | Date 2023-05-14 09:20:58.
+IPv4: 172.19.48.1, IPv6: fe80::ac06:2547:e74e:5d7c -- 2023-05-14 22:01:21 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU001' ID: 644 | Date 2023-05-14 20:22:25.
+IPv4: 172.19.48.1, IPv6: fe80::ac06:2547:e74e:5d7c -- 2023-05-14 22:01:22 [info] (server.js) message : Method(POST), Sending line notification with data id 951 keyName: 'UBU002'.
+IPv4: 172.19.48.1, IPv6: fe80::ac06:2547:e74e:5d7c -- 2023-05-14 22:01:22 [info] (server.js) message : Method(POST), Sending line notification with data id 952 keyName: 'UBU005'.
+IPv4: 172.19.48.1, IPv6: fe80::ac06:2547:e74e:5d7c -- 2023-05-14 22:01:23 [info] (server.js) message : Method(POST), Sending line notification with data id 953 keyName: 'UBU003'.
+IPv4: 172.19.48.1, IPv6: fe80::ac06:2547:e74e:5d7c -- 2023-05-14 22:02:30 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU001' ID: 644 | Date 2023-05-14 20:22:25.
+IPv4: 172.19.48.1, IPv6: fe80::ac06:2547:e74e:5d7c -- 2023-05-14 22:02:32 [info] (server.js) message : Method(POST), Sending line notification with data id 957 keyName: 'UBU002'.
+IPv4: 172.19.48.1, IPv6: fe80::ac06:2547:e74e:5d7c -- 2023-05-14 22:02:32 [info] (server.js) message : Method(POST), Sending line notification with data id 959 keyName: 'UBU005'.
+IPv4: 172.19.48.1, IPv6: fe80::ac06:2547:e74e:5d7c -- 2023-05-14 22:02:34 [info] (server.js) message : Method(POST), Sending line notification with data id 958 keyName: 'UBU003'.
+IPv4: 172.19.48.1, IPv6: fe80::ac06:2547:e74e:5d7c -- 2023-05-14 22:03:09 [error] (server.js) message : Method(POST), Alert time is not current with key name 'UBU001' ID: 644 | Date 2023-05-14 20:22:25.
+IPv4: 172.19.48.1, IPv6: fe80::ac06:2547:e74e:5d7c -- 2023-05-14 22:03:10 [info] (server.js) message : Method(POST), Sending line notification with data id 966 keyName: 'UBU002'.
+IPv4: 172.19.48.1, IPv6: fe80::ac06:2547:e74e:5d7c -- 2023-05-14 22:03:10 [info] (server.js) message : Method(POST), Sending line notification with data id 968 keyName: 'UBU005'.
+IPv4: 172.19.48.1, IPv6: fe80::ac06:2547:e74e:5d7c -- 2023-05-14 22:03:13 [info] (server.js) message : Method(POST), Sending line notification with data id 967 keyName: 'UBU003'.

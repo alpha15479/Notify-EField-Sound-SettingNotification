@@ -4,7 +4,7 @@ const settingNotificationController = require('../controllers/settingNotificatio
 
 router.get('/', settingNotificationController.getAllSettingNotifications);
 router.get('/:id', settingNotificationController.getSettingNotificationById);
-router.post('/', settingNotificationController.validate('createSettingNotification'), settingNotificationController.createSettingNotification);
+router.post('/', settingNotificationController.createSettingNotification);
 router.put('/:id', settingNotificationController.updateSettingNotificationById);
 router.delete('/:id', settingNotificationController.deleteSettingNotificationById);
 

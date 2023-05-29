@@ -1,0 +1,31 @@
+version: '3'
+services:
+  db:
+    image: mysql:latest
+    restart: always
+    environment:
+      - MYSQL_ROOT_PASSWORD=password
+      - MYSQL_DATABASE=kumwell
+    # ports:
+    #   - 3306:3306
+    volumes:
+      - mysqldata:/var/lib/mysql
+
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      - MYSQL_DATABASE=kumwell
+      - MYSQL_USERNAME=root
+      - MYSQL_HOSTNAME=db
+      - MYSQL_PASSWORD=password
+      - MYSQL_PORT=3001
+      - TIME_REQUEST=60000
+    ports:
+      - 3000:3000
+    depends_on:
+      - db
+
+volumes:
+  mysqldata:
